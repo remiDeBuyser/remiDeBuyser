@@ -6,5 +6,5 @@
 
 1
 2
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=remiDeBuyser-s&theme=radical&hide_langs_below=8)
-![](https://github-readme-stats.vercel.app/api?username=remiDeBuyser-s&show_icons=true&theme=radical&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=remiDeBuyser&theme=radical&hide_langs_below=8)
+![](https://github-readme-stats.vercel.app/api?username=remiDeBuyser&show_icons=true&theme=radical&count_private=true)
