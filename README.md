@@ -1,4 +1,12 @@
-- 👋 Hi, I’m @remiDeBuyser
+👨‍💻 Technology enthusiast and engineering student at CNAM de Reims, in an alternating work-study program
+
+🚀 Passionate about exploring new technologies and building innovative solutions
+
+🌐 Skilled in web development, software engineering, and data analysis
+
+📈 Always striving to learn and improve my skills to tackle complex challenges
+
+📧 Feel free to reach out for collaborations or just to chat!
 
 <img src="https://komarev.com/ghpvc/?username=remiDeBuyser&style=flat-square&color=blue" alt=""/>
 
